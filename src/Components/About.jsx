@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/book in my hand.jpg";
+import image from "../images/waterfall1.jpg";
 
 const imageAltText = "background of a natural place.";
 
