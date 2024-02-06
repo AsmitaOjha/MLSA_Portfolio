@@ -27,11 +27,11 @@ const siteProps = {
   name: "Asmita Ojha",
   title: "Computer Science Student & Web Developer",
   email: "asmitaojha05@gmail.com.",
-  gitHub: "https://github.com/AsmitaOjha",
-  instagram: "",
-  linkedIn: "https://www.linkedin.com/in/asmita-ojha-aa313a236",
+  gitHub: "AsmitaOjha",
+  instagram: "asmitaojha25",
+  linkedIn: "asmita-ojha-aa313a236",
   medium: "",
-  twitter: "",
+  twitter: "asmitaojha25",
   youTube: "",
 };
 
