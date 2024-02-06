@@ -21,7 +21,7 @@ import PropTypes from "prop-types";
  * freely use on your site.
  */
 
-import image from "../images/flowers and me.jpg";
+import image from "../images/working-me.jpg";
 const imageAltText = "my pic";
 
 const Home = ({ name, title }) => {
